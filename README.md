@@ -115,7 +115,7 @@ print(Niveditha().greet())
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/nivedithakummetha63?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" />
+<img src="https://leetcard.jacoblin.cool/Niveditha563?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" />
 
 </div>
 
@@ -179,8 +179,8 @@ print(Niveditha().greet())
   <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://leetcode.com/nivedithakummetha63">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<a href="https://leetcode.com/u/Niveditha563">
+  <img src="https://img.shields.io/badge/LeetCode-Niveditha563-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 </div>
