@@ -5,7 +5,9 @@
 
 <br/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=B.Tech+Computer+Science+%40+2026;Python+%7C+Java+%7C+JavaScript+Developer;ServiceNow+%7C+Power+BI+%7C+Excel+Enthusiast;Building+real+things%2C+one+commit+at+a+time+%F0%9F%9A%80;Always+curious%2C+always+learning+%E2%9C%A8" />
+
+<br/><br/>
 
 <!-- Inline stats badges like the reference profile -->
 ![](https://img.shields.io/badge/Profile%20Visits-growing-A855F7?style=flat-square&logo=github)
