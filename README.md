@@ -41,6 +41,9 @@ I'm **Niveditha** — part developer, part problem-solver, part "why isn't this 
 
 <br/>
 
+<details>
+<summary>💻 <b>Click to inspect my source code</b></summary>
+
 ```python
 class Niveditha:
     
@@ -60,6 +63,8 @@ print(me.greet())
 ```
 
 > 💬 *Output:* `Hey! Thanks for stopping by. Let's build something cool 🚀`
+
+</details>
 
 ---
 
