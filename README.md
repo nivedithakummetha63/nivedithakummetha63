@@ -67,9 +67,13 @@ From building sleek web interfaces to wrangling data into meaningful insights, I
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=nivedithakummetha63&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nivedithakummetha63&theme=tokyonight" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nivedithakummetha63&theme=tokyonight" width="32%" />
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivedithakummetha63&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nivedithakummetha63&theme=tokyonight" width="32%" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nivedithakummetha63&theme=tokyonight" width="32%" />
 
 </div>
 
