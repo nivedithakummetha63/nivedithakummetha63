@@ -12,7 +12,7 @@
 &nbsp;
 <a href="https://leetcode.com/u/Niveditha563"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=nivedithakummetha63&label=✨+Visitors&color=d63384&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=nivedithakummetha63&label=Visitors&color=d63384&style=for-the-badge" />
 
 </div>
 
@@ -28,7 +28,7 @@
 
 ---
 
-## � About Me
+## 🌸 About Me
 
 <img align="right" width="240" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
@@ -36,18 +36,16 @@ Hey there! I'm **Niveditha** 🌷 — a passionate CS undergrad who loves crafti
 From building sleek web interfaces to wrangling data into meaningful insights, I bring both **creativity** and **technical depth** to everything I build.
 
 🎓 &nbsp;B.Tech in Computer Science & Engineering (2022 – 2026)  
-� &nbsp;Exploring **ServiceNow** and **Power BI**  
+💼 &nbsp;Exploring **ServiceNow** and **Power BI**  
 🐍 &nbsp;Deepening my love for **Python** and **Java**  
 🧠 &nbsp;Grinding **LeetCode** daily  
 🌟 &nbsp;Dreaming big, coding bigger
 
 <br clear="right"/>
 
-<details>
-<summary>🌸 <b>Peek at my source code</b></summary>
-<br/>
+---
 
-## � Tech Stack
+## 💅 Tech Stack
 
 <div align="center">
 
@@ -69,13 +67,13 @@ From building sleek web interfaces to wrangling data into meaningful insights, I
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=nivedithakummetha63&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=nivedithakummetha63&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivedithakummetha63&layout=compact&theme=radical&hide_border=true" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivedithakummetha63&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=nivedithakummetha63&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=nivedithakummetha63&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -91,7 +89,7 @@ From building sleek web interfaces to wrangling data into meaningful insights, I
 
 ---
 
-## � Contribution Graph
+## 🐍 Contribution Graph
 
 <div align="center">
 
