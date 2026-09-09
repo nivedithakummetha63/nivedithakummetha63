@@ -66,19 +66,7 @@ I live at the intersection of **data**, **automation**, and **clean code**, alwa
 
 </div>
 
----
 
-## 📊 My GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nivedithakummetha63&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivedithakummetha63&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ## 🔥 GitHub Streak
 
