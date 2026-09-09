@@ -93,7 +93,7 @@ From building sleek web interfaces to wrangling data into meaningful insights, I
 
 <div align="center">
 
-*I'm always open to collaborations, opportunities, or just a friendly chat!*
+*I'm always open to collaborations and opportunities*
 
 <br/>
 
