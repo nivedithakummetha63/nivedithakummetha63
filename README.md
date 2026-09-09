@@ -32,6 +32,8 @@
 
 ## 🌟 About Me
 
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
 🎓 **B.Tech CS @ 2026** — on a mission to build things that matter
 
 I'm **Niveditha** — part developer, part problem-solver, part *"why isn't this working at 2am"* debugger.  
@@ -40,9 +42,10 @@ I live at the intersection of **data**, **automation**, and **clean code**, alwa
 - 🔭 Currently exploring **ServiceNow & Power BI**
 - 🌱 Growing my skills in **Python & Java**
 - 💬 Ask me about **Web Dev, Automation, or Data**
+- 🧠 Sharpening problem-solving skills on **LeetCode**
 - ⚡ Fun fact: I break things just to learn how to fix them
 
-<br/>
+<br clear="right"/>
 
 <details>
 <summary>💻 <b>Inspect my source code</b></summary>
