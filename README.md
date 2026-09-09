@@ -22,20 +22,44 @@
 
 ## 🌟 About Me
 
-> *"Code is not just logic — it's how I express ideas and solve problems."*
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I'm **Niveditha**, a Computer Science undergrad (2022–2026) who loves turning ideas into working software. Whether it's wrangling data, automating workflows, or building clean web interfaces, I'm always looking for that satisfying moment when everything just *clicks*.
+```
+ ██╗  ██╗███████╗██╗     ██╗      ██████╗ 
+ ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
+ ███████║█████╗  ██║     ██║     ██║   ██║
+ ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
+ ██║  ██║███████╗███████╗███████╗╚██████╔╝
+ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ 
+       I turn ☕ into code, bugs into features,
+            and ideas into reality. 
+```
+
+🎓 **CS undergrad @ 2026** — on a mission to build things that matter
+
+I'm **Niveditha** — part developer, part problem-solver, part "why isn't this working at 2am" debugger. I live at the intersection of **data**, **automation**, and **clean code**, always chasing that satisfying moment when the terminal finally says no errors.
+
+<br/>
 
 ```python
-niveditha = {
-    "degree":    "B.Tech in Computer Science & Engineering",
-    "batch":     "2022 – 2026",
-    "languages": ["Python", "Java", "JavaScript"],
-    "platforms": ["ServiceNow", "Power BI", "Excel"],
-    "tools":     ["Git", "GitHub", "VS Code"],
-    "mindset":   "Growth-oriented | Detail-driven | Always shipping 🚀"
-}
+class Niveditha:
+    
+    def __init__(self):
+        self.name       = "Niveditha Kummetha"
+        self.role       = "CS Undergrad → Future Tech Professional"
+        self.languages  = ["Python 🐍", "Java ☕", "JavaScript 🌐"]
+        self.platforms  = ["ServiceNow ☁️", "Power BI 📊", "Excel 📋"]
+        self.superpower = "Turning vague requirements into working software"
+        self.currently  = "Building. Breaking. Learning. Repeating."
+    
+    def greet(self):
+        return "Hey! Thanks for stopping by. Let's build something cool 🚀"
+
+me = Niveditha()
+print(me.greet())
 ```
+
+> 💬 *Output:* `Hey! Thanks for stopping by. Let's build something cool 🚀`
 
 ---
 
