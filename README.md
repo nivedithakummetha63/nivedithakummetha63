@@ -47,22 +47,6 @@ From building sleek web interfaces to wrangling data into meaningful insights, I
 <summary>🌸 <b>Peek at my source code</b></summary>
 <br/>
 
-```python
-class Niveditha:
-    name      = "Niveditha Kummetha 🌸"
-    degree    = "B.Tech CSE — Class of 2026"
-    languages = ["Python 🐍", "Java ☕", "JavaScript 🌐"]
-    platforms = ["ServiceNow ☁️", "Power BI 📊", "Excel 📋"]
-    vibe      = "Pink themes, dark mode, and clean code ✨"
-
-    def greet(self):
-        return "Thanks for visiting! Let's build something beautiful �"
-```
-
-</details>
-
----
-
 ## � Tech Stack
 
 <div align="center">
