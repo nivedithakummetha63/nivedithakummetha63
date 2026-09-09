@@ -1,20 +1,11 @@
 <div align="center">
 
-<!-- Scenic illustrated banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6a0dad,100:8A2BE2&height=280&section=header&text=Hi%2C%20I'm%20Niveditha%20%F0%9F%8C%99&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=A%20Developer%20in%20the%20Making&descSize=22&descAlignY=62&descAlign=50" />
+<!-- Hero banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6a0dad,100:8A2BE2&height=220&section=header&text=Hi%2C%20I'm%20Niveditha%20%F0%9F%8C%99&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=A%20Developer%20in%20the%20Making&descSize=20&descAlignY=58&descAlign=50" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=B.Tech+Computer+Science+%40+2026;Python+%7C+Java+%7C+JavaScript+Developer;ServiceNow+%7C+Power+BI+%7C+Excel+Enthusiast;Building+real+things%2C+one+commit+at+a+time+%F0%9F%9A%80;Always+curious%2C+always+learning+%E2%9C%A8" />
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=B.Tech+Computer+Science+%40+2026;Python+%7C+Java+%7C+JavaScript+Developer;ServiceNow+%7C+Power+BI+%7C+Excel+Enthusiast;Building+real+things%2C+one+commit+at+a+time+%F0%9F%9A%80;Always+curious%2C+always+learning+%E2%9C%A8" />
-
-<br/><br/>
-
-<!-- Inline stats badges like the reference profile -->
-![](https://img.shields.io/badge/Profile%20Visits-growing-A855F7?style=flat-square&logo=github)
-![](https://img.shields.io/badge/Batch-2022--2026-8A2BE2?style=flat-square&logo=graduation-cap)
-![](https://img.shields.io/badge/Status-Building%20%26%20Learning-success?style=flat-square&logo=rocket)
-
-<br/><br/>
 
 <a href="https://github.com/nivedithakummetha63">
   <img src="https://img.shields.io/badge/GitHub-nivedithakummetha63-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -24,7 +15,11 @@
   <img src="https://img.shields.io/badge/LinkedIn-Niveditha%20Kummetha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=nivedithakummetha63&label=Profile+Views&color=8A2BE2&style=for-the-badge" />
+<a href="https://leetcode.com/u/Niveditha563">
+  <img src="https://img.shields.io/badge/LeetCode-Niveditha563-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=nivedithakummetha63&label=Views&color=8A2BE2&style=for-the-badge" />
 
 </div>
 
