@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Scenic illustrated banner like the reference -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=280&section=header&text=Hi%2C%20I'm%20Niveditha%20%F0%9F%8C%99&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=A%20Developer%20in%20the%20Making&descSize=22&descAlignY=62&descAlign=50" />
+<!-- Scenic illustrated banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6a0dad,100:8A2BE2&height=280&section=header&text=Hi%2C%20I'm%20Niveditha%20%F0%9F%8C%99&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=A%20Developer%20in%20the%20Making&descSize=22&descAlignY=62&descAlign=50" />
 
 <br/>
 
@@ -95,9 +95,9 @@ print(Niveditha().greet())
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nivedithakummetha63&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nivedithakummetha63&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivedithakummetha63&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivedithakummetha63&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -106,7 +106,7 @@ print(Niveditha().greet())
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nivedithakummetha63&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
+  <img src="https://streak-stats.demolab.com?user=nivedithakummetha63&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -124,7 +124,7 @@ print(Niveditha().greet())
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nivedithakummetha63&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=8A2BE2&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nivedithakummetha63&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
@@ -189,7 +189,7 @@ print(Niveditha().greet())
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Thanks+for+visiting!&fontSize=28&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:1a1a2e&height=120&section=footer&text=Thanks+for+visiting!&fontSize=28&fontColor=ffffff&animation=fadeIn" />
 
 ⭐ *If something resonates, feel free to star a repo or drop a message!*
 
