@@ -5,8 +5,6 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=B.Tech+Computer+Science+%40+2026+🎓;Python+%7C+Java+%7C+JavaScript+Developer;ServiceNow+%7C+Power+BI+%7C+Excel+Enthusiast;Building+real+things%2C+one+commit+at+a+time+🚀;Always+curious%2C+always+learning+✨" />
-
 <br/>
 
 <!-- Inline stats badges like the reference profile -->
@@ -87,6 +85,19 @@ print(Niveditha().greet())
 
 </div>
 
+---
+
+## 📊 My GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nivedithakummetha63&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivedithakummetha63&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
 
 ## 🔥 GitHub Streak
 
@@ -104,6 +115,21 @@ print(Niveditha().greet())
 
 </div>
 
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nivedithakummetha63/nivedithakummetha63/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nivedithakummetha63/nivedithakummetha63/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/nivedithakummetha63/nivedithakummetha63/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
 
 ## 🚀 Areas I Work In
 
