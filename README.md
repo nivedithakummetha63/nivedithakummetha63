@@ -71,10 +71,6 @@ From building sleek web interfaces to wrangling data into meaningful insights, I
 &nbsp;
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivedithakummetha63&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=nivedithakummetha63&theme=tokyonight&hide_border=true" />
-
 </div>
 
 ---
@@ -89,21 +85,7 @@ From building sleek web interfaces to wrangling data into meaningful insights, I
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nivedithakummetha63/nivedithakummetha63/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nivedithakummetha63/nivedithakummetha63/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/nivedithakummetha63/nivedithakummetha63/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## 💌 Let's Connect
+## � Let's Connect
 
 <div align="center">
 
@@ -129,8 +111,6 @@ From building sleek web interfaces to wrangling data into meaningful insights, I
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,30:a18cd1,70:fecfef,100:ff9a9e&height=120&section=footer&fontColor=ffffff&animation=fadeIn" />
-
-✨ *Thank you for visiting my profile — you made my day!* 🌸
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,30:a18cd1,70:fecfef,100:ff9a9e&height=150&section=footer&text=Thanks+for+visiting!+%F0%9F%8C%B8&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
 
 </div>
