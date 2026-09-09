@@ -32,8 +32,6 @@
 
 ## 🌟 About Me
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 🎓 **B.Tech CS @ 2026** — on a mission to build things that matter
 
 I'm **Niveditha** — part developer, part problem-solver, part *"why isn't this working at 2am"* debugger.  
@@ -46,7 +44,30 @@ I live at the intersection of **data**, **automation**, and **clean code**, alwa
 
 <br/>
 
+<details>
+<summary>💻 <b>Inspect my source code</b></summary>
+<br/>
 
+```python
+class Niveditha:
+    def __init__(self):
+        self.name       = "Niveditha Kummetha"
+        self.role       = "CS Undergrad → Future Tech Professional"
+        self.languages  = ["Python 🐍", "Java ☕", "JavaScript 🌐"]
+        self.platforms  = ["ServiceNow ☁️", "Power BI 📊", "Excel 📋"]
+        self.superpower = "Turning vague requirements into working software"
+        self.currently  = "Building. Breaking. Learning. Repeating."
+
+    def greet(self):
+        return "Hey! Thanks for stopping by. Let's build something cool 🚀"
+
+print(Niveditha().greet())
+# Output: Hey! Thanks for stopping by. Let's build something cool 🚀
+```
+
+</details>
+
+---
 
 ## 🛠️ Technology Stack
 
@@ -67,7 +88,6 @@ I live at the intersection of **data**, **automation**, and **clean code**, alwa
 </div>
 
 
-
 ## 🔥 GitHub Streak
 
 <div align="center">
@@ -83,7 +103,6 @@ I live at the intersection of **data**, **automation**, and **clean code**, alwa
 <img src="https://leetcard.jacoblin.cool/Niveditha563?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" />
 
 </div>
-
 
 
 ## 🚀 Areas I Work In
